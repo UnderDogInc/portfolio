@@ -18,8 +18,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -b master -d build"
+    "predeploy": "yarn run build"
   },
   "eslintConfig": {
     "extends": "react-app"
