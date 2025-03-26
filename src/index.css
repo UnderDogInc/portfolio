@@ -10,3 +10,7 @@ body,
   letter-spacing: 0.3px;
   line-height: 1.6;
 }
+
+:root {
+    --r95-color-headerBackground: #000e7a !important;
+}

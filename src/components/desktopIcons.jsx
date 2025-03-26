@@ -1,7 +1,7 @@
 import React from "react";
 import { Cursor } from "@react95/core";
 import "./styles.scss";
-import { Shell32133, Explorer103, CdMusic, Mspaint } from "@react95/icons";
+import { Shell32133, Explorer103 } from "@react95/icons";
 
 function Shortcuts({ openPortfolio, openCV, openTunes, openPaint }) {
   return (
